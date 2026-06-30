@@ -1,6 +1,6 @@
 ## 🚀 FlowAgent AI
 
-**FlowAgent AI** is an AI-powered workflow automation platform designed to simplify complex tasks through intelligent AI agents. It enables users to create, manage, and automate workflows with an intuitive and modern interface.
+**FlowAgent AI** is an AI-powered workflow automation platform designed to simplify complex tasks through intelligent AI agents , It enables users to create, manage, and automate workflows with an intuitive and modern interface.
 
 ### ✨ Features
 - 🤖 AI-powered workflow automation
